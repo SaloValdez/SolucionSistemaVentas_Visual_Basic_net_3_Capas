@@ -1,0 +1,68 @@
+-------------------MARCA---------------------
+create proc sp_insertar_marca(
+@DetalleMarca varchar(50)
+)
+As
+insert into MARCA(DetalleMarca)
+values(@DetalleMarca)
+select MAX (IdMarca) From MARCA
+
+--------------PRODUCTO---------------------
+create proc sp_insertar_producto(
+@CodigoProducto varchar(13),
+@IdProveedor int,
+@DescripcionProducto varchar(40),
+@CantidadProducto int,
+@PrecioCostoProducto decimal(18,2),
+@PrecioVentaProducto decimal(18,2),
+@StockMinimoProducto int,
+@IdCategoria int,
+@IdSubCategoria int,
+@IdMarca int
+)
+As
+insert into PRODUCTO(CodigoProducto,IdProveedor,DescripcionProducto,CantidadProducto,PrecioCostoProducto,PrecioVentaProducto,StockMinimoProducto,IdCategoria,IdSubCategoria,IdMarca)
+values(@CodigoProducto,@IdProveedor,@DescripcionProducto,@CantidadProducto,@PrecioCostoProducto,@PrecioVentaProducto,@StockMinimoProducto,@IdCategoria,@IdSubCategoria,@IdMarca)
+select MAX (IdProducto) From PRODUCTO
+-------PROVEEDOR------
+create proc sp_insertar_proveedor(
+@RazonSocialProveedor varchar(40),
+@RucProveedor char(11),
+@DireccionProveedor varchar(80),
+@TelefonoProveedor char(11),
+@EmailProveedor varchar(40),
+@RepresentanteProveedor varchar(40)
+)
+AS
+insert into PROVEEDOR(RazonSocialProveedor,RucProveedor,DireccionProveedor,TelefonoProveedor,EmailProveedor,RepresentanteProveedor)
+values(@RazonSocialProveedor,@RucProveedor,@DireccionProveedor,@TelefonoProveedor,@RepresentanteProveedor)
+select MAX(IdProveedor)From PROVEEDOR
+-----------SUBCATEGORIA---------
+create proc sp_insertar_subcategoria(
+@DetalleSubCategoria varchar(50),
+@IdCategoria int
+)
+As
+insert into SUBCATEGORIA(DestalleSubCategoria,IdCategoria)
+values(@DetalleSubCategoria,@IdCategoria)
+select MAX(IdSubCategoria) From SUBCATEGORIA
+------------TIPO--COMPROBANTE-------
+create proc sp_insertar_tipo_comprobante(
+@DetalleTipoComprobante varchar(20)
+)
+As
+insert into TIPO_COMPROBANTE(DetalleTipoComprobante)
+values(@DetalleTipoComprobante)
+select MAX(IdTipoComprobante) From TIPO_COMPROBANTE
+
+
+---------USUARIO-----
+create proc sp_insertar_usuario(
+@CuentaUsuario varchar(20),
+@ClaveUsuario varchar(20),
+@IdEmpleado int
+)
+As
+insert into USUARIO(CuentaUsuario,ClaveUsuario,IdEmpleado)
+values(@CuentaUsuario,@ClaveUsuario,@IdEmpleado)
+select MAX (IdUsuario) From USUARIO

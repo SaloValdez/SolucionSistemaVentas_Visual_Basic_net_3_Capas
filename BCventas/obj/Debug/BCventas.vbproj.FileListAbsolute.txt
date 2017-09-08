@@ -1,0 +1,17 @@
+D:\UNIT\PROGRAMACION DISTRIBUIDA\SolucionSistemaVentas\BCventas\bin\Debug\BCventas.dll
+D:\UNIT\PROGRAMACION DISTRIBUIDA\SolucionSistemaVentas\BCventas\bin\Debug\BCventas.pdb
+D:\UNIT\PROGRAMACION DISTRIBUIDA\SolucionSistemaVentas\BCventas\bin\Debug\BCventas.xml
+D:\UNIT\PROGRAMACION DISTRIBUIDA\SolucionSistemaVentas\BCventas\obj\Debug\BCventas.Resources.resources
+D:\UNIT\PROGRAMACION DISTRIBUIDA\SolucionSistemaVentas\BCventas\obj\Debug\BCventas.vbproj.GenerateResource.Cache
+D:\UNIT\PROGRAMACION DISTRIBUIDA\SolucionSistemaVentas\BCventas\obj\Debug\BCventas.dll
+D:\UNIT\PROGRAMACION DISTRIBUIDA\SolucionSistemaVentas\BCventas\obj\Debug\BCventas.xml
+D:\UNIT\PROGRAMACION DISTRIBUIDA\SolucionSistemaVentas\BCventas\obj\Debug\BCventas.pdb
+F:\SALOMON\BIBLIOTECA\SISTEMAS\CUARTO SEMESTRE\PROGRAMACION DISTRIBUIDA\SolucionSistemaVentas\BCventas\bin\Debug\BCventas.dll
+F:\SALOMON\BIBLIOTECA\SISTEMAS\CUARTO SEMESTRE\PROGRAMACION DISTRIBUIDA\SolucionSistemaVentas\BCventas\bin\Debug\BCventas.pdb
+F:\SALOMON\BIBLIOTECA\SISTEMAS\CUARTO SEMESTRE\PROGRAMACION DISTRIBUIDA\SolucionSistemaVentas\BCventas\bin\Debug\BCventas.xml
+F:\SALOMON\BIBLIOTECA\SISTEMAS\CUARTO SEMESTRE\PROGRAMACION DISTRIBUIDA\SolucionSistemaVentas\BCventas\obj\Debug\BCventas.vbprojResolveAssemblyReference.cache
+F:\SALOMON\BIBLIOTECA\SISTEMAS\CUARTO SEMESTRE\PROGRAMACION DISTRIBUIDA\SolucionSistemaVentas\BCventas\obj\Debug\BCventas.Resources.resources
+F:\SALOMON\BIBLIOTECA\SISTEMAS\CUARTO SEMESTRE\PROGRAMACION DISTRIBUIDA\SolucionSistemaVentas\BCventas\obj\Debug\BCventas.vbproj.GenerateResource.Cache
+F:\SALOMON\BIBLIOTECA\SISTEMAS\CUARTO SEMESTRE\PROGRAMACION DISTRIBUIDA\SolucionSistemaVentas\BCventas\obj\Debug\BCventas.dll
+F:\SALOMON\BIBLIOTECA\SISTEMAS\CUARTO SEMESTRE\PROGRAMACION DISTRIBUIDA\SolucionSistemaVentas\BCventas\obj\Debug\BCventas.xml
+F:\SALOMON\BIBLIOTECA\SISTEMAS\CUARTO SEMESTRE\PROGRAMACION DISTRIBUIDA\SolucionSistemaVentas\BCventas\obj\Debug\BCventas.pdb

@@ -1,0 +1,68 @@
+D:\UNIT\PROGRAMACION DISTRIBUIDA\SolucionSistemaVentas\Presentacion\bin\Debug\Presentacion.exe.config
+D:\UNIT\PROGRAMACION DISTRIBUIDA\SolucionSistemaVentas\Presentacion\bin\Debug\Presentacion.exe
+D:\UNIT\PROGRAMACION DISTRIBUIDA\SolucionSistemaVentas\Presentacion\bin\Debug\Presentacion.pdb
+D:\UNIT\PROGRAMACION DISTRIBUIDA\SolucionSistemaVentas\Presentacion\bin\Debug\Presentacion.xml
+D:\UNIT\PROGRAMACION DISTRIBUIDA\SolucionSistemaVentas\Presentacion\obj\Debug\Presentacion.Resources.resources
+D:\UNIT\PROGRAMACION DISTRIBUIDA\SolucionSistemaVentas\Presentacion\obj\Debug\Presentacion.vbproj.GenerateResource.Cache
+D:\UNIT\PROGRAMACION DISTRIBUIDA\SolucionSistemaVentas\Presentacion\obj\Debug\Presentacion.exe
+D:\UNIT\PROGRAMACION DISTRIBUIDA\SolucionSistemaVentas\Presentacion\obj\Debug\Presentacion.xml
+D:\UNIT\PROGRAMACION DISTRIBUIDA\SolucionSistemaVentas\Presentacion\obj\Debug\Presentacion.pdb
+D:\UNIT\PROGRAMACION DISTRIBUIDA\SolucionSistemaVentas\Presentacion\bin\Debug\BCventas.dll
+D:\UNIT\PROGRAMACION DISTRIBUIDA\SolucionSistemaVentas\Presentacion\bin\Debug\BCventas.pdb
+D:\UNIT\PROGRAMACION DISTRIBUIDA\SolucionSistemaVentas\Presentacion\bin\Debug\BCventas.xml
+D:\UNIT\PROGRAMACION DISTRIBUIDA\SolucionSistemaVentas\Presentacion\obj\Debug\Presentacion.vbprojResolveAssemblyReference.cache
+D:\UNIT\PROGRAMACION DISTRIBUIDA\SolucionSistemaVentas\Presentacion\obj\Debug\Presentacion.FrmLogin.resources
+D:\UNIT\PROGRAMACION DISTRIBUIDA\SolucionSistemaVentas\Presentacion\obj\Debug\Presentacion.FrmManEmpleado.resources
+D:\UNIT\PROGRAMACION DISTRIBUIDA\SolucionSistemaVentas\Presentacion\obj\Debug\Presentacion.WikiSalo.resources
+D:\UNIT\PROGRAMACION DISTRIBUIDA\SolucionSistemaVentas\Presentacion\obj\Debug\Presentacion.FrmInicio.resources
+D:\UNIT\PROGRAMACION DISTRIBUIDA\SolucionSistemaVentas\Presentacion\obj\Debug\Presentacion.FrmConComprobante.resources
+D:\UNIT\PROGRAMACION DISTRIBUIDA\SolucionSistemaVentas\Presentacion\obj\Debug\Presentacion.FrmVenta.resources
+D:\UNIT\PROGRAMACION DISTRIBUIDA\SolucionSistemaVentas\Presentacion\obj\Debug\Presentacion.PaletaColores.resources
+D:\UNIT\PROGRAMACION DISTRIBUIDA\SolucionSistemaVentas\Presentacion\obj\Debug\Presentacion.FrmManCliente.resources
+D:\UNIT\PROGRAMACION DISTRIBUIDA\SolucionSistemaVentas\Presentacion\obj\Debug\Presentacion.FrmManCategoria.resources
+D:\UNIT\PROGRAMACION DISTRIBUIDA\SolucionSistemaVentas\Presentacion\obj\Debug\Presentacion.FrmManProducto.resources
+D:\UNIT\PROGRAMACION DISTRIBUIDA\SolucionSistemaVentas\Presentacion\obj\Debug\Presentacion.FrmManProveedor.resources
+D:\UNIT\PROGRAMACION DISTRIBUIDA\SolucionSistemaVentas\Presentacion\obj\Debug\Presentacion.FrmManSubcategoria.resources
+D:\UNIT\PROGRAMACION DISTRIBUIDA\SolucionSistemaVentas\Presentacion\obj\Debug\Presentacion.FrmManArea.resources
+D:\UNIT\PROGRAMACION DISTRIBUIDA\SolucionSistemaVentas\Presentacion\obj\Debug\Presentacion.FrmManCargo.resources
+D:\UNIT\PROGRAMACION DISTRIBUIDA\SolucionSistemaVentas\Presentacion\obj\Debug\Presentacion.FrmManMarca.resources
+D:\UNIT\PROGRAMACION DISTRIBUIDA\SolucionSistemaVentas\Presentacion\obj\Debug\Presentacion.FrmManTipoComprobante.resources
+D:\UNIT\PROGRAMACION DISTRIBUIDA\SolucionSistemaVentas\Presentacion\obj\Debug\Presentacion.FrmConClientes.resources
+D:\UNIT\PROGRAMACION DISTRIBUIDA\SolucionSistemaVentas\Presentacion\obj\Debug\Presentacion.FrmRepProveedor.resources
+D:\UNIT\PROGRAMACION DISTRIBUIDA\SolucionSistemaVentas\Presentacion\obj\Debug\RdlCompile.cache
+D:\UNIT\PROGRAMACION DISTRIBUIDA\SolucionSistemaVentas\Presentacion\obj\Debug\RdlCompile.compiled
+D:\UNIT\PROGRAMACION DISTRIBUIDA\SolucionSistemaVentas\Presentacion\obj\Debug\Presentacion.FrmRepComprobantes.resources
+F:\SALOMON\BIBLIOTECA\SISTEMAS\CUARTO SEMESTRE\PROGRAMACION DISTRIBUIDA\SolucionSistemaVentas\Presentacion\bin\Debug\Presentacion.exe.config
+F:\SALOMON\BIBLIOTECA\SISTEMAS\CUARTO SEMESTRE\PROGRAMACION DISTRIBUIDA\SolucionSistemaVentas\Presentacion\obj\Debug\Presentacion.exe
+F:\SALOMON\BIBLIOTECA\SISTEMAS\CUARTO SEMESTRE\PROGRAMACION DISTRIBUIDA\SolucionSistemaVentas\Presentacion\obj\Debug\Presentacion.xml
+F:\SALOMON\BIBLIOTECA\SISTEMAS\CUARTO SEMESTRE\PROGRAMACION DISTRIBUIDA\SolucionSistemaVentas\Presentacion\obj\Debug\Presentacion.pdb
+F:\SALOMON\BIBLIOTECA\SISTEMAS\CUARTO SEMESTRE\PROGRAMACION DISTRIBUIDA\SolucionSistemaVentas\Presentacion\bin\Debug\Presentacion.exe
+F:\SALOMON\BIBLIOTECA\SISTEMAS\CUARTO SEMESTRE\PROGRAMACION DISTRIBUIDA\SolucionSistemaVentas\Presentacion\bin\Debug\Presentacion.pdb
+F:\SALOMON\BIBLIOTECA\SISTEMAS\CUARTO SEMESTRE\PROGRAMACION DISTRIBUIDA\SolucionSistemaVentas\Presentacion\bin\Debug\Presentacion.xml
+F:\SALOMON\BIBLIOTECA\SISTEMAS\CUARTO SEMESTRE\PROGRAMACION DISTRIBUIDA\SolucionSistemaVentas\Presentacion\bin\Debug\BCventas.dll
+F:\SALOMON\BIBLIOTECA\SISTEMAS\CUARTO SEMESTRE\PROGRAMACION DISTRIBUIDA\SolucionSistemaVentas\Presentacion\bin\Debug\Microsoft.SqlServer.Types.dll
+F:\SALOMON\BIBLIOTECA\SISTEMAS\CUARTO SEMESTRE\PROGRAMACION DISTRIBUIDA\SolucionSistemaVentas\Presentacion\bin\Debug\BCventas.pdb
+F:\SALOMON\BIBLIOTECA\SISTEMAS\CUARTO SEMESTRE\PROGRAMACION DISTRIBUIDA\SolucionSistemaVentas\Presentacion\bin\Debug\BCventas.xml
+F:\SALOMON\BIBLIOTECA\SISTEMAS\CUARTO SEMESTRE\PROGRAMACION DISTRIBUIDA\SolucionSistemaVentas\Presentacion\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+F:\SALOMON\BIBLIOTECA\SISTEMAS\CUARTO SEMESTRE\PROGRAMACION DISTRIBUIDA\SolucionSistemaVentas\Presentacion\obj\Debug\Presentacion.vbprojResolveAssemblyReference.cache
+F:\SALOMON\BIBLIOTECA\SISTEMAS\CUARTO SEMESTRE\PROGRAMACION DISTRIBUIDA\SolucionSistemaVentas\Presentacion\obj\Debug\Presentacion.FrmConClientes.resources
+F:\SALOMON\BIBLIOTECA\SISTEMAS\CUARTO SEMESTRE\PROGRAMACION DISTRIBUIDA\SolucionSistemaVentas\Presentacion\obj\Debug\Presentacion.FrmConComprobante.resources
+F:\SALOMON\BIBLIOTECA\SISTEMAS\CUARTO SEMESTRE\PROGRAMACION DISTRIBUIDA\SolucionSistemaVentas\Presentacion\obj\Debug\Presentacion.FrmManArea.resources
+F:\SALOMON\BIBLIOTECA\SISTEMAS\CUARTO SEMESTRE\PROGRAMACION DISTRIBUIDA\SolucionSistemaVentas\Presentacion\obj\Debug\Presentacion.FrmManCargo.resources
+F:\SALOMON\BIBLIOTECA\SISTEMAS\CUARTO SEMESTRE\PROGRAMACION DISTRIBUIDA\SolucionSistemaVentas\Presentacion\obj\Debug\Presentacion.FrmManCliente.resources
+F:\SALOMON\BIBLIOTECA\SISTEMAS\CUARTO SEMESTRE\PROGRAMACION DISTRIBUIDA\SolucionSistemaVentas\Presentacion\obj\Debug\Presentacion.FrmManCategoria.resources
+F:\SALOMON\BIBLIOTECA\SISTEMAS\CUARTO SEMESTRE\PROGRAMACION DISTRIBUIDA\SolucionSistemaVentas\Presentacion\obj\Debug\Presentacion.FrmManMarca.resources
+F:\SALOMON\BIBLIOTECA\SISTEMAS\CUARTO SEMESTRE\PROGRAMACION DISTRIBUIDA\SolucionSistemaVentas\Presentacion\obj\Debug\Presentacion.FrmManProducto.resources
+F:\SALOMON\BIBLIOTECA\SISTEMAS\CUARTO SEMESTRE\PROGRAMACION DISTRIBUIDA\SolucionSistemaVentas\Presentacion\obj\Debug\Presentacion.FrmManProveedor.resources
+F:\SALOMON\BIBLIOTECA\SISTEMAS\CUARTO SEMESTRE\PROGRAMACION DISTRIBUIDA\SolucionSistemaVentas\Presentacion\obj\Debug\Presentacion.FrmManSubcategoria.resources
+F:\SALOMON\BIBLIOTECA\SISTEMAS\CUARTO SEMESTRE\PROGRAMACION DISTRIBUIDA\SolucionSistemaVentas\Presentacion\obj\Debug\Presentacion.FrmManTipoComprobante.resources
+F:\SALOMON\BIBLIOTECA\SISTEMAS\CUARTO SEMESTRE\PROGRAMACION DISTRIBUIDA\SolucionSistemaVentas\Presentacion\obj\Debug\Presentacion.PaletaColores.resources
+F:\SALOMON\BIBLIOTECA\SISTEMAS\CUARTO SEMESTRE\PROGRAMACION DISTRIBUIDA\SolucionSistemaVentas\Presentacion\obj\Debug\Presentacion.FrmManEmpleado.resources
+F:\SALOMON\BIBLIOTECA\SISTEMAS\CUARTO SEMESTRE\PROGRAMACION DISTRIBUIDA\SolucionSistemaVentas\Presentacion\obj\Debug\Presentacion.FrmInicio.resources
+F:\SALOMON\BIBLIOTECA\SISTEMAS\CUARTO SEMESTRE\PROGRAMACION DISTRIBUIDA\SolucionSistemaVentas\Presentacion\obj\Debug\Presentacion.FrmLogin.resources
+F:\SALOMON\BIBLIOTECA\SISTEMAS\CUARTO SEMESTRE\PROGRAMACION DISTRIBUIDA\SolucionSistemaVentas\Presentacion\obj\Debug\Presentacion.Resources.resources
+F:\SALOMON\BIBLIOTECA\SISTEMAS\CUARTO SEMESTRE\PROGRAMACION DISTRIBUIDA\SolucionSistemaVentas\Presentacion\obj\Debug\Presentacion.FrmRepComprobantes.resources
+F:\SALOMON\BIBLIOTECA\SISTEMAS\CUARTO SEMESTRE\PROGRAMACION DISTRIBUIDA\SolucionSistemaVentas\Presentacion\obj\Debug\Presentacion.FrmRepProveedor.resources
+F:\SALOMON\BIBLIOTECA\SISTEMAS\CUARTO SEMESTRE\PROGRAMACION DISTRIBUIDA\SolucionSistemaVentas\Presentacion\obj\Debug\Presentacion.FrmVenta.resources
+F:\SALOMON\BIBLIOTECA\SISTEMAS\CUARTO SEMESTRE\PROGRAMACION DISTRIBUIDA\SolucionSistemaVentas\Presentacion\obj\Debug\Presentacion.WikiSalo.resources
+F:\SALOMON\BIBLIOTECA\SISTEMAS\CUARTO SEMESTRE\PROGRAMACION DISTRIBUIDA\SolucionSistemaVentas\Presentacion\obj\Debug\Presentacion.vbproj.GenerateResource.Cache

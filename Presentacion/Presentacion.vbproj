@@ -1,0 +1,335 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{72795153-2026-4405-8A81-171F389B6709}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Presentacion.My.MyApplication</StartupObject>
+    <RootNamespace>Presentacion</RootNamespace>
+    <AssemblyName>Presentacion</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Presentacion.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Presentacion.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Consultas\FrmConClientes.Designer.vb">
+      <DependentUpon>FrmConClientes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Consultas\FrmConClientes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Consultas\FrmConComprobante.Designer.vb">
+      <DependentUpon>FrmConComprobante.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Consultas\FrmConComprobante.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DBSISVENTASDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DBSISVENTASDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DBSISVENTASDataSet1.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DBSISVENTASDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Inicio\Permisos\conexion.vb" />
+    <Compile Include="Inicio\Permisos\variable.vb" />
+    <Compile Include="Mantenimiento\FrmManArea.Designer.vb">
+      <DependentUpon>FrmManArea.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Mantenimiento\FrmManArea.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mantenimiento\FrmManCargo.Designer.vb">
+      <DependentUpon>FrmManCargo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Mantenimiento\FrmManCargo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mantenimiento\FrmManCliente.Designer.vb">
+      <DependentUpon>FrmManCliente.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Mantenimiento\FrmManCliente.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mantenimiento\FrmManCategoria.Designer.vb">
+      <DependentUpon>FrmManCategoria.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Mantenimiento\FrmManCategoria.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mantenimiento\FrmManMarca.Designer.vb">
+      <DependentUpon>FrmManMarca.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Mantenimiento\FrmManMarca.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mantenimiento\FrmManProducto.Designer.vb">
+      <DependentUpon>FrmManProducto.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Mantenimiento\FrmManProducto.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mantenimiento\FrmManProveedor.Designer.vb">
+      <DependentUpon>FrmManProveedor.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Mantenimiento\FrmManProveedor.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mantenimiento\FrmManSubcategoria.Designer.vb">
+      <DependentUpon>FrmManSubcategoria.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Mantenimiento\FrmManSubcategoria.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mantenimiento\FrmManTipoComprobante.Designer.vb">
+      <DependentUpon>FrmManTipoComprobante.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Mantenimiento\FrmManTipoComprobante.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PaletaColores.Designer.vb">
+      <DependentUpon>PaletaColores.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PaletaColores.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mantenimiento\FrmManEmpleado.Designer.vb">
+      <DependentUpon>FrmManEmpleado.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Mantenimiento\FrmManEmpleado.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Inicio\FrmInicio.Designer.vb">
+      <DependentUpon>FrmInicio.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Inicio\FrmInicio.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Inicio\FrmLogin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Inicio\FrmLogin.Designer.vb">
+      <DependentUpon>FrmLogin.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Reportes\FrmRepComprobantes.Designer.vb">
+      <DependentUpon>FrmRepComprobantes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\FrmRepComprobantes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reportes\FrmRepProveedor.Designer.vb">
+      <DependentUpon>FrmRepProveedor.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\FrmRepProveedor.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Venta\FrmVenta.Designer.vb">
+      <DependentUpon>FrmVenta.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Venta\FrmVenta.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WikiSalo.Designer.vb">
+      <DependentUpon>WikiSalo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="WikiSalo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Consultas\FrmConClientes.resx">
+      <DependentUpon>FrmConClientes.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Consultas\FrmConComprobante.resx">
+      <DependentUpon>FrmConComprobante.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mantenimiento\FrmManArea.resx">
+      <DependentUpon>FrmManArea.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mantenimiento\FrmManCargo.resx">
+      <DependentUpon>FrmManCargo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mantenimiento\FrmManCliente.resx">
+      <DependentUpon>FrmManCliente.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mantenimiento\FrmManCategoria.resx">
+      <DependentUpon>FrmManCategoria.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mantenimiento\FrmManMarca.resx">
+      <DependentUpon>FrmManMarca.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mantenimiento\FrmManProducto.resx">
+      <DependentUpon>FrmManProducto.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mantenimiento\FrmManProveedor.resx">
+      <DependentUpon>FrmManProveedor.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mantenimiento\FrmManSubcategoria.resx">
+      <DependentUpon>FrmManSubcategoria.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mantenimiento\FrmManTipoComprobante.resx">
+      <DependentUpon>FrmManTipoComprobante.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PaletaColores.resx">
+      <DependentUpon>PaletaColores.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mantenimiento\FrmManEmpleado.resx">
+      <DependentUpon>FrmManEmpleado.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Inicio\FrmInicio.resx">
+      <DependentUpon>FrmInicio.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Inicio\FrmLogin.resx">
+      <DependentUpon>FrmLogin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\FrmRepComprobantes.resx">
+      <DependentUpon>FrmRepComprobantes.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\FrmRepProveedor.resx">
+      <DependentUpon>FrmRepProveedor.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RptComprobante.rdlc" />
+    <EmbeddedResource Include="RptReporteProveedorsa.rdlc" />
+    <EmbeddedResource Include="Venta\FrmVenta.resx">
+      <DependentUpon>FrmVenta.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WikiSalo.resx">
+      <DependentUpon>WikiSalo.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="DBSISVENTASDataSet.xsc">
+      <DependentUpon>DBSISVENTASDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="DBSISVENTASDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DBSISVENTASDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DBSISVENTASDataSet.xss">
+      <DependentUpon>DBSISVENTASDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="DBSISVENTASDataSet1.xsc">
+      <DependentUpon>DBSISVENTASDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="DBSISVENTASDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DBSISVENTASDataSet1.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DBSISVENTASDataSet1.xss">
+      <DependentUpon>DBSISVENTASDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BCventas\BCventas.vbproj">
+      <Project>{6795e9fa-47bd-4ccb-9f46-92e4fae331a3}</Project>
+      <Name>BCventas</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
